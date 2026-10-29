@@ -1,0 +1,5 @@
+
+name: WorldItemBlocker
+version: 1.0
+main: me.worlditemblocker.WorldItemBlocker
+api-version: '1.21'
